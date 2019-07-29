@@ -1,0 +1,7 @@
+name: chi-course-2019
+dependencies:
+  - numpy
+  - scipy
+  - pip:
+    - gpy
+    - gpyopt
