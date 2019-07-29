@@ -2,6 +2,7 @@ name: chi-course-2019
 dependencies:
   - numpy
   - scipy
+  - matplotlib
   - pip:
     - gpy
     - gpyopt
